@@ -6851,7 +6851,7 @@ function IsPlayerDead()
 end
 
 function GetFlagZone()
-	Instances.Map.Flag.TerritoryId
+	return Instances.Map.Flag.TerritoryId
 end
 
 --------------------------------------------------------------------------------
